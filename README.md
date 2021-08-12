@@ -275,7 +275,7 @@ eval_dataset = pdx.datasets.VOCDetection(
 
 需要将第二步数据准备时生成的labels.txt, train_list.txt, val_list.txt和test_list.txt配置到以上变量中，如下图所示：
 
-![](https://ai-studio-static-online.cdn.bcebos.com/6462f7811da3436290948e5dde0c497d6ae51bcfe1904e0a863ff032363a4448)
+![image](https://user-images.githubusercontent.com/18440163/129162326-9d257a1a-9cf7-4999-8d26-02e6837174c2.png)
 
 
 # 四、模型训练
