@@ -190,9 +190,10 @@ this is an example for detecting facemask by PaddleX.
 
 划分完成后，该数据集下会生成**labels.txt**, **train_list.txt**, **val_list.txt**和**test_list.txt**，分别存储类别信息，训练样本列表，验证样本列表，测试样本列表。如下图所示：
 
-![](https://ai-studio-static-online.cdn.bcebos.com/d29a92b4cfc34b0097ef46dbbc8562af824387889f224948ae49283e0adee19d)
+![image](https://user-images.githubusercontent.com/18440163/129161946-0052984f-2479-4fbf-afdf-9b9e93727c5a.png)
 
-在这里，**你需要将path to dataset部分替换成你选择的数据集路径**。在左侧文件夹处，将鼠标放到你想选择的数据集文件夹上，会出现三个图标，第一个图标表示复制该文件夹路径，点击即可获得该文件夹路径，用这个路径替换path to dataset即可。
+
+在这里，**你需要将path to dataset部分(objDataset/facemask)替换成你选择的数据集路径**。在左侧文件夹处，将鼠标放到你想选择的数据集文件夹上，会出现三个图标，第一个图标表示复制该文件夹路径，点击即可获得该文件夹路径，用这个路径替换path to dataset即可。
 
 ![](https://ai-studio-static-online.cdn.bcebos.com/c28ed88586644f64b34709a592fea0b97ec80470c0e041fd9aa6b8da21c8e283)
 
